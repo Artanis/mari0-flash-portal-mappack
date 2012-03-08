@@ -1,0 +1,4 @@
+name=flash portal
+author=erik youngren
+description=collection of levels from flash portal
+lives=0
