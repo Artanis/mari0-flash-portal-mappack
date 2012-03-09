@@ -18,5 +18,5 @@ design:
    the rest of the chamber being off screen. These are ignored, the fall
    hazard is superficial, the real danger will be lasers or light bridges.
 
-.. _Portal: the Flash Version: http://portal.wecreatestuff.com/portal.php
+.. _Portal\: the Flash Version: http://portal.wecreatestuff.com/portal.php
 
